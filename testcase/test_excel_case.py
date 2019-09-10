@@ -214,8 +214,8 @@ if __name__ == '__main__':
     pytest.main(["-s","test_excel_case.py","--alluredir",report_path])
 
 
-    Base.allure_report("./report/result","./report/html")
-    Base.send_mail(title="接口测试报告结果",content=report_html_path)
+    #Base.allure_report("./report/result","./report/html")
+    #Base.send_mail(title="接口测试报告结果",content=report_html_path)
     #固定headers请求
     #1.判断headers是否存在，json转义，无需
     #2.增加Headers

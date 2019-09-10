@@ -27,5 +27,5 @@ def test_yaml(login):
     print(res)
 
 if __name__ == "__main__":
-    pytest.main(["-s","test_login.py"])
+    pytest.main(["-s","Test_login.py"])
 

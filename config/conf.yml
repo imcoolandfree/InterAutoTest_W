@@ -12,7 +12,7 @@ BASE:
 
 
 email:
- smtpserver: "smtp.163.com"
- username: "demon119@163.com"
- password: "test123456"
- receiver: "demon119@163.com"
+ smtpserver: "smtp.itcast.com"
+ username: "wangxu@itcast.com"
+ password: "FDSArewq1"
+ receiver: "wangxu@itcast.com"
